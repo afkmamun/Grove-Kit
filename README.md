@@ -8,3 +8,4 @@ python3 psploit.py
 
 ;) thats all
 
+http://prnt.sc/mmobzu
