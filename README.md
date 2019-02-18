@@ -8,4 +8,4 @@ python3 psploit.py
 
 ;) thats all
 
-http://prnt.sc/mmobzu
+my twitter: https://twitter.com/SEternalblue
